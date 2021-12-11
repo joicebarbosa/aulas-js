@@ -8,10 +8,10 @@ alert(d.getMinutes());
 
 
 
-var count;
+/*var count;
 for(count=0; count <= 5; count++){
   alert(count)
-
+*/
 
 
 /*var count = 0;
